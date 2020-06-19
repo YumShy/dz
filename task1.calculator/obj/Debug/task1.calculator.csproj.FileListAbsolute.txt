@@ -1,0 +1,9 @@
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\bin\Debug\task1.calculator.exe.config
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\bin\Debug\task1.calculator.exe
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\bin\Debug\task1.calculator.pdb
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.csprojAssemblyReference.cache
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.Form1.resources
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.Properties.Resources.resources
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.csproj.GenerateResource.cache
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.exe
+D:\учёба\OOP C#\2 семестр\дз\task1.calculator\obj\Debug\task1.calculator.pdb
